@@ -33,6 +33,7 @@ function ShoppingListCheckOffService() {
                {name :"cookies",quantity :"2 piece"},
                {name :"cookies",quantity :"3 bag"},
                {name :"soft drink",quantity :"4 bottle"},
+               {name :"wine",quantity :"5 glass"}
           ];
   var bought = [];
 
