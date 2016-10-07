@@ -1,0 +1,22 @@
+1.给一组正整数，输出这个数组可以表示的最大整数。 get
+2.二叉树的序列化和反序列化
+3.最长公共子串                    get
+4.最长公共子序列                  get
+5.括号匹配stack                  get
+6.多种括号的匹配                  get
+7.Check if there exist duplicates in array or not
+8.Check if there exist two indexes i and j such that a[i]=a[j] && j-i>=k (k is given in input).
+9.print all combination of size k from number 1 to n(n and k are input)
+10.Find the maximum length of the increasing substring in a string of number get
+11.Print all the irreducable fraction
+12.Find the longest common substring of two strings. get
+13.Given a string with only numeric characters, find longest decreasing sub-string get
+14.Find all permutations of a string and print them in alphabetical order  get
+15.Find the longest increasing order substring get
+16.最长公共子序列，子串（打印一个、打印多个） get
+最长递增（减）子序列（打印一个、打印多个） get
+最长递增（减）子串（打印一个、打印多个） get
+括号匹配   get
+最大公约数和最小公倍数
+全排列 get
+01背包…… get
